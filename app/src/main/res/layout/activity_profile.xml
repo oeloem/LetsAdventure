@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    android:layout_marginTop="15dp"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:layout_marginBottom="15dp"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgProfile"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:layout_width="100dp"
+            android:layout_height="100dp" />
+
+        <TextView
+            android:id="@+id/txtProfile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center_vertical|right"
+            android:text="Perkenalkan nama saya Rosihul Ulum asal dari Bekasi, Bekasi Timur. Kali ini saya membuat aplikasi Let's Adventure, di aplikasi ini anda dapat mengetahui tempat-tempat yang indah dan anda dapat mengetahui info penginapan yang ada di sana"/>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

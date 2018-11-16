@@ -1,0 +1,204 @@
+<resources>
+    <string name="app_name">Let\'s Adventure</string>
+
+    <string-array name="daftar_judul">
+        <item>Stonehenge, Inggris</item>
+        <item>Piramida, Mesir</item>
+        <item>Angkor Wat, Kamboja</item>
+        <item>Borobudur, Indonesia</item>
+        <item>Tembok Besar China, China</item>
+        <item>Taj Mahal, India</item>
+        <item> Acropolis of Athens, Yunani</item>
+        <item>Menara Pisa, Italia</item>
+        <item>Menara Eiffel, Perancis</item>
+    </string-array>
+
+    <string-array name="isi_judul">
+        <item>Sebagai salah satu negara di Eropa yang cukup dikenal di seluruh dunia, Inggris juga memiliki salah satu tempat wisata bersejarah dunia yang menarik untuk dikunjungi. Inilah Stonehenge.
+
+Stonehenge merupakan salah satu monumen pra sejarah yang kini menjadi salah satu situs yang paling tekenal di dunia. Lokasinya ada di kawasan Wiltshire, yang berada di sebelah barat Amesbury dan utara Salisbury.
+
+Tempat yang satu ini memiliki susunan batu yang melingkar. Batu-batu tersebut berdiri dan ada juga beberapa batu lainnya yang tidur di atas tumpukan batu yang berdiri. Tempat ini cukup kompleks.
+
+</item>
+        <item>Piramida di Mesir juga menjadi salah satu lokasi wisata bersejarah di dunia yang sangat terkenal. Tempat ini adalah tempat yang dibangun pada masa dinasti keempat dari Mesir Khufu.
+
+Piramida dibangun sebagai tempat untuk memakamkan Firaun pada masa tresebut. Diyakini bahwa piramida itu sendiri dibangun selama kurang lebih 20 tahun. bangunan ini terdiri dari batu kapur yang disusun.
+
+Hingga saat ini, piramida masih bisa dilihat di Mesir dan menjadi ikon wisata atau landmark tersendiri untuk negara Mesir. Jika Anda kebetulan berencana ke Mesir, cobalah berkunjung ke sana dan beberapa Tempat Wisata di Mesir lainnya.</item>
+        <item>Asia Tenggara juga tidak lepas dari yang namanya sejarah. Di Kamboja, ada tempat bersejarah yang sudah terkenal hingga ke seluruh dunia dan kini ramai dikunjungi wisatawan, yaitu Angkor Wat.
+
+Angkor Wat adalah sebuah kompleks candi yang berada di Angkor, Kamboja. Candi atau bangunan bersejarah ini dibangun ada masa Raja Suryavarman II yang hidup di awal abad ke-12.
+
+Tujuan pembangunan adalah sebagai kuil atau bangunan ibadah. Tempat ini kini tetap menjadi salah satu situs penting di Kamboja. Walau sudah sering dikunjungi wisatawan, namun beberapa kegiatan keagamaan penting masih sering dilakukan di sana.</item>
+        <item>Sebagai salah satu bangunan yang pernah menjadi bagian dari 7 keajaiban dunia, Borobudur yang berada di Indonesia juga layak untuk disebut sebagai tempat wisata bersejarah dunia.
+
+Hal ini dikarenakan memang ada banyak hal menarik dari Borobudur. Candi yang berada di Magelang ini menempati ruang di daerah pegunungan. Candi ini adalah Candi Budha. Terlihat dari bentuk bangunan dan keberadaan patung Budha yang ada di sana.
+
+Saat ini Borobudur tetap menjadi ikon wisata dari Magelang dan juga Yogyakarta. setiap harinya ada banyak wisatawan yang datang, baik dari domestik maupun mancanegara.</item>
+        <item>Tempat bersejarah berikutnya yang menarik untuk dikunjungi di dunia adalah Tembok Besar China atau Great Wall yang berada di China. Tembok ini merupakan sebuah tembok panjang yang berada di daerah pegunungan.
+
+Tembok ini merupakan bangunan terpanjang yang pernah dibangun manusia di China. Sama seperti Borobudur, Great Wall pernah menjadi salah satu bagian dari 7 keajaiban dunia.
+
+Saat ini tempat ini sudah masuk ke dalam salah satu daftar situs warisan dunia UNESCO. Tujuan pembangunan tembok ini di masa lalu adalah untuk membatasi wilayah perkotaan, yaitu sebagai benten pertahanan dan juga penanda perbatasan.</item>
+        <item>Bangunan megah dan merupakan sebuah tempat wisata bersejarah dunia berikutnya adalah Taj Mahal yang berada di India. Bangunan ini sebenarnya merupakan sebuah makam yang dibangun oleh Kaisar Mughal.
+
+Tujuan pembangunan Taj Mahal adalah untuk mengenang istri kaisar yang bernama Mumtaz Mahal. Bangunan ini tidak hanya megah dan indah, melainkan juga merupakan bangunan dengan arsitektur terbaik dari Mughal.
+
+Tempat Wisata di India ini menggabungkan beberapa gaya dan elemen sehingga membentuk corak bangunan yang unik di India, yaitu gaya dari Persia dan India, yang kemudian mendapat sentuhan arsitektur Islam.</item>
+        <item>Yunani memang terkenal sebagai salah satu negara dengan peninggalan sejarah yang cukup banyak. Salah satu yang terkenal adalah Acropolis of Athens. Kemudian dikenal sebagai Parthenon.
+
+Tempat ini adalah salah satu objek wisata bersejarah yang sudah ada sejak zaman dahulu. Bangunan ini berada di ketinggian 150 meter di atas permukaan laut. Luasnya kurang lebih 3 hektar.
+
+Parthenon juga sudah masuk ke dalam situs warisan dunia UNESCO. Pengunjung bisa berkunjung ke sana mulai dari pukul 08.00 hingga 20.00 waktu setempat.</item>
+        <item>Tempat wisata bersejarah dunia berikutnya yang terkenal adalah Menara Pisa yang berada di Italia. Menara yang satu ini sempat menjadi 7 keajaiban dunia selain Taj Mahal dan Borobudur.
+
+Hal menarik dari tempat ini adalah menara yang miring. Miringnya menara ini justru menjadikan menara ini menarik dan saat ini, bangunan ini tetap ramai dikunjungi para wisataan dari seluruh penjuru negeri.
+
+Menara Pisa sendiri sebenarnya adlaah menara lonceng katedral di kota Pisa. Pembangunan menara ini memang tegak, namun lama kelamaan bangunan ini menjadi miring.</item>
+        <item>Selain Menara Pisa, menara terkenal lainnya yang juga layak untuk disebut sebagai tempat bersejarah terkenal di dunia adalah Menara Eiffel. Menara ini berada di kota Paris dan menjadi salah satu ikon atau landmark Paris.
+
+Menara yang satu ini memang menarik, karena tergolong menara yang sudah tua usianya. Pembangunan menara ini dimulai pada tahun 1887 yang lalu, dan mulai diresmikan pada 31 Maret 1889.
+
+Menara dibuat dari 18.083 bagian besi benam dan dibangun oleh ratusan pekerja. Bentuk menara ini menjadi menara pencakar langit di era modern pada zamannya. Saat ini menara ini dikenal sebagai Tempat Wisata di Paris yang romantis.</item>
+    </string-array>
+
+    <string-array name="daftar_hotel">
+        <item>Flynns Guesthouse, Inggris</item>
+        <item>Sofitel Cairo Nile El Gezirah, Mesir</item>
+        <item>The Plantation Urban Resort and Spa, Kamboja</item>
+        <item>Saba Garden Villa, Indonesia</item>
+        <item>Hanting Express Shanghai Hongqiao Shu'niu Qi bao No.2 , China</item>
+        <item>Radisson Gurugram Udyog Vihar , India</item>
+        <item>Diana Apartments, yunani</item>
+        <item>Cozy Navona - My Extra Home, Italia</item>
+        <item>Villa Glamour, perancis</item>
+    </string-array>
+
+    <string-array name="detail_hotel">
+        <item>Terletak di London, 1,8 km dari Victoria Park, Flynns Guesthouse memiliki kamar-kamar dengan akses WiFi gratis. Berjarak 2,9 km dari Olympic Stadium, akomodasi ini juga dapat ditempuh dalam jarak 3,1 km dari Hoxton Square. Objek wisata di daerah sekitar termasuk Brick Lane yang terletak 3,3 km jauhnya, atau Islington yang berjarak 3,4 km dari akomodasi.
+
+Kamar-kamar di akomodasi ini dilengkapi dengan lemari pakaian. Menyediakan kamar mandi pribadi, beberapa kamar di Flynns Guesthouse juga memiliki balkon. Semua kamar memiliki TV layar datar dan perlengkapan mandi gratis.
+
+Bandara terdekat adalah Bandara Kota London, 9 km dari akomodasi.
+
+Pasangan paling suka lokasinya — mereka memberi nilai 8,7 untuk perjalanan dua orang.
+
+Akomodasi ini juga dinilai memiliki harga terbaik di London! Tamu mendapatkan fasilitas lebih banyak untuk uang yang mereka keluarkan dibandingkan akomodasi lain di kota ini.
+
+</item>
+        <item>Sofitel El Gezirah adalah hotel mewah bintang 5 dengan kawasan pejalan kaki pribadi di sepanjang Sungai Nil. Hotel ini berada dalam jarak berjalan kaki dari gedung Opera dan Menara Kairo, serta Museum Mesir dan Khan El Khalili. Terdapat kolam renang luar ruangan tak bertepi di hotel ini. Wi-Fi gratis disediakan di semua area hotel.
+
+Semua kamar di hotel Sofitel El Gezirah ber-AC, dan dilengkapi dengan TV satelit, minibar, dan Wi-Fi dasar gratis. Banyak kamar menampilkan pemandangan yang luas ke sepanjang Sungai Nil dan ke seberang kota Kairo.
+
+Hotel ini memiliki 7 restoran, yang di antaranya menyajikan hidangan Maroko, Mesir, Italia, dan India. Terdapat juga 3 bar, termasuk Le Duplex Bar dan Window on the Nile.
+
+Sofitel El Gezirah Cairo memiliki berbagai fasilitas rekreasi, termasuk spa lengkap dengan kolam renang, hammam, dan pusat kebugaran. Hot tub tersedia dengan paket pijat. Tur dan perjalanan wisata dapat diatur di meja pramutamu.
+
+Sofitel El Gezirah berjarak 20 km dari bandara internasional Tempat parkir mobil pribadi tersedia di hotel ini.
+
+Akomodasi ini juga berada di salah satu kawasan paling favorit di Kairo! Tamu lebih senang di sini dibandingkan dengan di akomodasi lain di area yang sama.
+
+Pasangan paling suka lokasinya — mereka memberi nilai 9,0 untuk perjalanan dua orang.</item>
+        <item>The Plantation Urban Resort and Spa terletak di lokasi sentral di Phnom Penh, tepat di belakang Istana Kerajaan. Akomodasi ini menyediakan 2 kolam renang luar ruangan. Anda dapat menikmati makanan di restoran akomodasi atau minuman di bar. Wi-Fi gratis dapat diakses di seluruh area.
+
+Akomodasi berjarak 2, km dari Chaktomouk Conference Hall 2 dan 3,6 km dari Aeon Mall. The Plantation Urban Resort and Spa hanya berselang 10 menit jalan kaki dari tepi sungai yang ramai dan daerah hiburan di Phnom Penh. Bandara Internasional Phnom Penh hanya berjarak 10,3 km dari akomodasi. Akomodasi ini menawarkan layanan antar-jemput bandara dengan biaya tambahan.
+
+Kamar ber-AC bebas rokok ini juga memiliki pilihan kipas angin dan interior bewarna-warni. Kamar dapat terbuka ke pemandangan yang berbeda dan memungkinkan banyak cahaya alami. Area tempat duduknya dilengkapi dengan TV layar datar, minibar, dan meja. Fasilitas lainnya mencakup ketel listrik, fasilitas membuat teh/kopi, dan sandal. Kamar mandi dalamnya memiliki shower, sikat gigi, pengering rambut, dan perlengkapan mandi gratis.
+
+Bagian meja depan beroperasi 24 jam dan melayani pertukaran mata uang, pengaturan wisata, layanan pramutamu, dan fasilitas pertemuan. Fasilitas rekreasinya mencakup pusat kebugaran dan spa. Pertemuan bisnis pribadi dapat dilakukan di Le Petit Salon and The Study, tempat minuman ringan dari La Pergola disajikan, atau di Red Pool Lounge. Anda dapat membeli suvenir di Cambomania, dan Lotus Pond Gallery merupakan tuan rumah untuk banyak pameran seni sepanjang tahun. Akomodasi menerima pembayaran menggunakan Union Pay.
+
+La Pergola menghidangkan masakan fusion Chef Olivier Guillon untuk cita rasa Perancis dan lokal Kamboja. Poolside Restaurant and Bar menyajikan pilihan internasional yang mencakup hidangan Barat, Asia, dan Khmer yang autentik.
+
+Daun Penh adalah pilihan tepat buat wisatawan yang suka suasana, hidangan lokal, dan restoran.
+
+Ini adalah kawasan favorit tamu kami di Phnom Penh, menurut ulasan independen.
+
+Akomodasi ini juga berada di salah satu kawasan paling favorit di Phnom Penh! Tamu lebih senang di sini dibandingkan dengan di akomodasi lain di area yang sama.
+
+Pasangan paling suka lokasinya — mereka memberi nilai 9,4 untuk perjalanan dua orang.
+
+Akomodasi ini juga dinilai memiliki harga terbaik di Phnom Penh! Tamu mendapatkan fasilitas lebih banyak untuk uang yang mereka keluarkan dibandingkan akomodasi lain di kota ini.</item>
+        <item>Saba Garden Villa memiliki lokasi nyaman, hanya 5 menit berkendara untuk Komune Beach Club, serta menawarkan kolam renang outdoor pribadi dengan kursi-kursi berjemur. Wi-Fi gratis dapat diakses di seluruh area vila.
+
+Saba Garden Villa menampilkan interior modern bergaya elegan, serta memiliki ruang tamu dengan area tempat duduk yang dilengkapi dengan sofa. Di kamar tidur tersedia TV layar datar, lemari, dan kamar mandi dengan pengering rambut, shower, dan bathtub.
+
+Saba Garden Villa berjarak 15 menit berkendara dari pusat Sanur dan Gianyar. Dari akomodasi dibutuhkan 20 menit berkendara untuk mencapai pusat Ubud.
+
+Anda dapat menikmati berbagai layanan spa di vila, yang tersedia berdasarkan permintaan. Di akomodasi juga tersedia tempat parkir pribadi
+
+Sarapan disajikan di vila Anda.
+
+Kami berbicara bahasa Anda!</item>
+        <item>Hanting Express Shanghai Hongqiao Shu'niu Qi bao No.2 is situated in Shanghai, within 14 km of Jing'an Temple and 18 km of Xintiandi. Located in the Minhang district, the property provides guests with access to a restaurant. The accommodation offers a 24-hour front desk as well as free WiFi.
+
+The units in the hotel are fitted with a TV.
+
+The nearest airport is Shanghai Hongqiao International Airport, 6 km from the property.
+
+Minhang adalah pilihan tepat buat wisatawan yang suka restoran, jalan-jalan, dan pariwisata.</item>
+        <item>Radisson Gurugram terletak di Udyog Vihar, kawasan industri di Gurgaon, hanya 7 km dari Bandara Internasional. Hotel ini menawarkan Wi-Fi gratis, pusat kebugaran lengkap, dan layanan pijat.
+
+Semua kamar bergaya trendi, dihias penuh selera dengan interior modern yang elegan, serta dilengkapi dengan TV layar datar, ruang duduk, dan minibar. Kamar mandi pribadi memiliki shower dan perlengkapan mandi gratis.
+
+Akomodasi ini menyediakan layanan penyewaan mobil dan penukaran mata uang untuk kenyamanan Anda. Staf di bagian penerima tamu 24 jam siap melayani Anda.
+
+Anda dapat mencicipi aneka hidangan lokal dan internasional di Cafe NH8, atau menikmati makanan cepat di The Brew Bar yang buka 24 jam. Layanan kamar juga ditawarkan sebagai alternatif.
+
+Akomodasi ini juga dinilai memiliki harga terbaik di Gurgaon! Tamu mendapatkan fasilitas lebih banyak untuk uang yang mereka keluarkan dibandingkan akomodasi lain di kota ini.</item>
+        <item>Diana is a family owned property offering a hospitable and peaceful setting by the sea. Guests will find a picturesque cove just below Diana Apartments.
+
+All rooms are self-catering and have balconies/terraces with view of the Cretan Sea. Each is further equipped with free Wi-Fi, WC/Shower, satellite TV and music, air conditioning, and refrigerator.
+
+Surrounded by the beautiful Cretan landscape, the sea and the mountains, the hotel is set upon a verdant hill. The centre of Agia Pelagia and the main beach are only 200 metres away.
+
+Ini adalah kawasan favorit tamu kami di Agia Pelagia, menurut ulasan independen.
+
+Akomodasi ini juga berada di salah satu kawasan paling favorit di Agia Pelagia! Tamu lebih senang di sini dibandingkan dengan di akomodasi lain di area yang sama.</item>
+        <item>Apartemen ber-AC ini memiliki Wi-Fi gratis dan terletak 300 meter dari Castel Sant'Angelo di Roma. Apartemen ini berjarak 500 meter dari Piazza Navona.
+
+Terdapat area tempat duduk dan dapur. Handuk dan seprai disediakan di Cozy Navona - My Extra Home. Ada 2 kamar mandi dengan bidet dan shower.
+
+Cozy Navona - My Extra Home berjarak 600 meter dari Sant'Agostino dan 700 meter dari Campo de' Fiori. Bandara terdekat adalah Bandara Roma Ciampino, 13 km dari akomodasi.
+
+Navona adalah pilihan tepat buat wisatawan yang suka jalan-jalan di kota, jelajah kota tua, dan reruntuhan romawi.
+
+Ini adalah kawasan favorit tamu kami di Roma, menurut ulasan independen.
+
+Akomodasi ini juga berada di salah satu kawasan paling favorit di Roma! Tamu lebih senang di sini dibandingkan dengan di akomodasi lain di area yang sama.</item>
+        <item>Merupakan sebuah mansion yang menawan dan sangat romantis dari abad ke-19, hotel ini berjarak hanya beberapa langkah dari Menara Eiffel yang cantik dan Le Trocadéro, salah satu kawasan yang paling bergaya dan elegan di Paris.
+
+Villa Glamour adalah sebuah hotel dengan 11 kamar yang unik, merupakan sebuah berlian romantis khas Prancis. Hotel yang hangat dan besar ini menawarkan suasana intim dan romantis. Di musim panas, Anda dapat menikmati sarapan di halaman kecil.
+
+Staf yang ramah dan dinamis dengan senang hati akan membantu Anda menikmati liburan di ibukota Prancis ini semaksimal mungkin. Parkir pribadi tersedia di sebelah hotel dengan biaya tambahan.
+
+16th arr. adalah pilihan tepat buat wisatawan yang suka pariwisata, jalan-jalan, dan jalan-jalan di kota.
+
+Ini adalah kawasan favorit tamu kami di Paris, menurut ulasan independen.
+
+Pasangan paling suka lokasinya — mereka memberi nilai 8,7 untuk perjalanan dua orang.
+
+Akomodasi ini juga dinilai memiliki harga terbaik di Paris! Tamu mendapatkan fasilitas lebih banyak untuk uang yang mereka keluarkan dibandingkan akomodasi lain di kota ini.</item>
+    </string-array>
+
+
+    <string-array name="daftar_gunung">
+        <item>Cartenzs Pyramid di Papua (4.884 mdpl)</item>
+        <item>Gunung Puncak Mandala (4.760 mdpl)</item>
+        <item>Gunung Puncak Trikora (4.750 mdpl)</item>
+        <item>Gunung Ngga Pilimsit (4.717 mdpl)</item>
+        <item>Gunung Yamin (4.595 mdpl)</item>
+        <item>unung Kerinci (3.805 mdpl)</item>
+        <item>Gunung Rinjani (3.726 mdpl)</item>
+        <item>Gunung Semeru (3.676 mdpl)</item>
+        <item>Gunung Sanggar (3.564 mdpl)</item>
+        <item>Gunung Latimojong (3.478 mdpl)</item>
+        <item>Gunung Slamet (3.428 mdpl)</item>
+        <item>Gunung Sumbing (3.371 mdpl)</item>
+        <item>Gunung Raung (3.344 mdpl)</item>
+        <item>Gunung Lawu (3.265 mdpl)</item>
+        <item>Gunung Merbabu (3.145 mdpl)</item>
+    </string-array>
+
+
+</resources>
